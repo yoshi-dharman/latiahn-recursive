@@ -8,5 +8,3 @@ function deretAngkaGenap(n){
         }
     }
 }
-
-console.log(deretAngkaGenap(8));
